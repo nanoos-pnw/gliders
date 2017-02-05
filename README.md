@@ -9,7 +9,7 @@
 
 ### NANOOS deployments listed in the Glider DAC ERDDAP
 - https://data.ioos.us/gliders/erddap/search/index.html?searchFor=NANOOS
-- 27 matching datasets (as of 1/5/2017) -- seems to catch all NANOOS-associated deployments! Probably the only system that does.
+- 30 matching datasets (as of 2/4/2017) -- seems to catch all NANOOS-associated deployments! Probably the only system that does.
 
 ### NANOOS deployments listed in the new IOOS Catalog under the Glider DAC organization
 - https://data.ioos.us/dataset?q=nanoos&organization=glider-dac
