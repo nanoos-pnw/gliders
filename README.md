@@ -12,10 +12,12 @@
 - 27 matching datasets (as of 1/5/2017) -- seems to catch all NANOOS-associated deployments! Probably the only system that does.
 
 ### NANOOS deployments listed in the new IOOS Catalog under the Glider DAC organization
-- https://data.ioos.us/dataset?q=nanoos&organization=gliderdac
+- https://data.ioos.us/dataset?q=nanoos&organization=glider-dac
 - Each deployment record is duplicated (the second set only has ERDDAP services)
 - Neither the CMOP nor the Trinidad Head NANOOS-CeNCOOS deployments are listed!
 
+### "Underwater Glider Network Map" DAC application
+- https://gliders.ioos.us/map/#
 
 ## NVS Glider Apps
 - La Push: http://nvs.nanoos.org/GliderLaPush
