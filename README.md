@@ -22,4 +22,5 @@ https://gliders.ioos.us
 
 ## NVS Glider Apps
 - La Push: http://nvs.nanoos.org/GliderLaPush
+- Trinidad Head: http://nvs.nanoos.org/GliderTrinidadHead
 - OSU Bob & Jane (old Slocum deployments): http://nvs.nanoos.org/GliderOsuBob, http://nvs.nanoos.org/GliderOsuJane
