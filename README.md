@@ -3,10 +3,14 @@
 ## Glider DAC
 https://gliders.ioos.us
 ### NANOOS deployments listed in the Glider DAC "catalog v2" by "contributor/provider/operator"
-- **nanoos-uw**: https://data.ioos.us/gliders/providers/operators/nanoos-uw/deployments. Note, as of 1/5/2017, the blank attribution field and absent WMO ID's
-- **Center for Coastal Margin Observation and Prediction, Oregon Health & Science University**: https://data.ioos.us/gliders/providers/operators/Center%20for%20Coastal%20Margin%20Observation%20and%20Prediction%2C%20Oregon%20Health%20%26%20Science%20University/deployments
-- **Oregon State University (NANOOS/CeNCOOS)**: https://data.ioos.us/gliders/providers/operators/Oregon%20State%20University%20(NANOOS/CeNCOOS)/deployments
-- **Oregon State University**: https://data.ioos.us/gliders/providers/operators/Oregon%20State%20University/deployments. Note that it should be lumped with the above deployments, but ended up having a different "contributor/provider/operator" string.
+- La Push
+  - **nanoos-uw**: https://data.ioos.us/gliders/providers/operators/nanoos-uw/deployments. Note, as of 1/5/2017, the blank attribution field and absent WMO ID's
+- CMOP, SW WA
+  - **Center for Coastal Margin Observation and Prediction, Oregon Health & Science University**: https://data.ioos.us/gliders/providers/operators/Center%20for%20Coastal%20Margin%20Observation%20and%20Prediction%2C%20Oregon%20Health%20%26%20Science%20University/deployments
+- Trinidad Head
+  - **Oregon State University (NANOOS/CeNCOOS)**: https://data.ioos.us/gliders/providers/operators/Oregon%20State%20University%20(NANOOS/CeNCOOS)/deployments
+  - **Oregon State University**: https://data.ioos.us/gliders/providers/operators/Oregon%20State%20University/deployments. Note that it should be lumped with the above deployments, but ended up having a different "contributor/provider/operator" string.
+  - **12/14/2018 note:** The current deployment (started 2018-11) doesn't appear under either of those two providers/operators. It's been flagged differently. Look it up under Fred Bahr
 
 ### NANOOS deployments listed in the Glider DAC ERDDAP
 - https://data.ioos.us/gliders/erddap/search/index.html?searchFor=NANOOS
